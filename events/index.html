@@ -5,7 +5,7 @@ title: LorraineJug
 
 
 <div class="container">
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
     <div class="row">
         <article class="box">
             <header>
@@ -26,20 +26,20 @@ title: LorraineJug
         </article>
     </div>
     {% endfor %}
+
+    {% if paginator.total_pages > 1 %}
+        <div id="pagination" class="row">
+            <div class="box">
+                {% if paginator.previous_page and paginator.previous_page > 1 %}
+                    <a href="{{ site.baseurl }}/events/{{ paginator.previous_page }}" class="previous">Événements plus recents&lt;&lt;&lt;</a>
+                {% elsif paginator.previous_page == 1 %}
+                    <a href="{{ site.baseurl }}/events/" class="previous">Événements plus recents&lt;&lt;&lt;</a>
+                {% endif %}
+
+                {% if paginator.next_page %}
+                    <a href="{{ site.baseurl }}/events/{{ paginator.next_page }}" class="next">&gt;&gt;&gt;Événements plus anciens</a>
+                {% endif %}
+            </div>
+        </div>
+    {% endif %}
 </div>
-
-{% if paginator.total_pages > 1 %}
-    <div id="pagination">
-        {% if paginator.previous_page and paginator.previous_page > 1 %}
-            <a href="{{ site.baseurl }}/events/{{ paginator.previous_page }}" class="previous">Previous</a>
-        {% elsif paginator.previous_page == 1 %}
-            <a href="{{ site.baseurl }}/events/" class="previous">Previous</a>
-        {% endif %}
-
-        <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-
-        {% if paginator.next_page %}
-            <a href="{{ site.baseurl }}/events/{{ paginator.next_page }}" class="next">Next</a>
-        {% endif %}
-    </div>
-{% endif %}
