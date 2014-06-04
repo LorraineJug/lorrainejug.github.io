@@ -1,7 +1,7 @@
 name: LorraineJug
 description: Lorraine Java User Group
 url: http://www.lorrainejug.org
-exclude: [README.md, _site/, jekyll-deploy.sh, stasher.sh, config-parser.sh, lorrainejug.github.io.iml]
+exclude: [README.md, _site/, lorrainejug.github.io.iml]
 gems: [jekyll-sass]
 markdown: redcarpet
 pygments: true
