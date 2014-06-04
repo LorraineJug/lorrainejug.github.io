@@ -15,7 +15,7 @@ Dans le répertoire du projet utilisez la ligne de commande
 
 ## Deploiement sur github-pages
 
-`./jekyll-deploy.sh`
+`git push -u origin master`
 
 
 ## Visualiser le site
