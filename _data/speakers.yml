@@ -36,7 +36,7 @@ sstormacq:
   firstname: Sébastien
   gravatar: 8d913eec72e7837bb2712a06ea5f25c5
   social :
-    twitter: sebsto‎
+    twitter: sebsto
     github: sebsto
 
 gcuisinier:
@@ -73,7 +73,7 @@ ogerardin‎:
   lastname: GERARDIN
   firstname: Olivier
   social :
-    twitter: ogerardin‎
+    twitter: ogerardin
 
 nromanetti:
   lastname: ROMANETTI
@@ -91,7 +91,7 @@ lgangloff‎:
   lastname: GANGLOFF
   firstname: Loïc
   social :
-    twitter: loicgangloff‎
+    twitter: loicgangloff
 
 agoncalves:
   lastname: GONCALVES
@@ -145,15 +145,15 @@ apupier‎:
   lastname: PUPIER
   firstname: Aurélien
   social :
-    twitter: apupier‎
+    twitter: apupier
 
 mfiguiere‎:
   lastname: FIGUIERE
   firstname: Michael
   gravatar: 63b37ec39d27ee1b4e29c29e45aa99b6
   social :
-    twitter: mfiguiere‎
-    github: mfiguiere‎
+    twitter: mfiguiere
+    github: mfiguiere
 
 xroy:
   lastname: ROY
@@ -180,7 +180,7 @@ frenout‎:
   lastname: RENOUT
   firstname: Frédéric
   social :
-    twitter: fred_renout‎
+    twitter: fred_renout
 
 rmaton:
   lastname: MATON
@@ -206,14 +206,14 @@ asabotdurand:
   firstname: Antoine
   gravatar: 98d0697142b0d75568acf12b2767b01c
   social :
-    twitter: antoine_sd‎
-    github: antoinesd‎
+    twitter: antoine_sd
+    github: antoinesd
 
 wtrombini:
   lastname: TROMBINI
   firstname: Wilfried
   social :
-    twitter: wiltro2‎
+    twitter: wiltro2
 
 jpaumard:
   lastname: PAUMARD
@@ -239,7 +239,7 @@ tleriche‎:
   firstname: Thierry
   photo: tleriche‎.jpg
   social :
-    twitter: thierryleriche‎
+    twitter: thierryleriche
     homepage: http://www.icauda.com/
   bio: >
      <p>Thierry est <a href="http://www.icauda.com/profil">consultant freelance</a> avec une quinzaine d'années
@@ -257,14 +257,14 @@ lprecup‎:
   lastname: PRECUP
   firstname: Lucian
   social :
-    twitter: lucianprecup‎
+    twitter: lucianprecup
 
 sletelie:
   lastname: LETELIE
   firstname: Sébastien
   gravatar: 7b9c109b029433c9f5b79250e8e349de
   social :
-    twitter: sebmade‎
+    twitter: sebmade
     github: sebmade
 
 gscheibel:
@@ -272,8 +272,8 @@ gscheibel:
   firstname: Guillaume
   gravatar: 0d82c7c12dbc0a5f96e098d3e13b16c3
   social :
-    twitter: g_scheibel‎
-    github: g_scheibel‎
+    twitter: g_scheibel
+    github: g_scheibel
 
 fvaille:
   lastname: VAILLE
@@ -286,8 +286,8 @@ tgrall‎:
   firstname: Tugdual
   gravatar  : aab9ac774f61c5d9bf143b5a1bfe901b
   social :
-    twitter: tgrall‎
-    github: tgrall‎
+    twitter: tgrall
+    github: tgrall
 
 dpilato:
   lastname: PILATO
