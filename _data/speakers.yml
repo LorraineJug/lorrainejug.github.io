@@ -237,9 +237,21 @@ jpaumard:
 tleriche‎:
   lastname: LERICHE
   firstname: Thierry
+  photo: tleriche‎.jpg
   social :
     twitter: thierryleriche‎
     homepage: http://www.icauda.com/
+  bio: >
+     <p>Thierry est <a href="http://www.icauda.com/profil">consultant freelance</a> avec une quinzaine d'années
+     d'expérience. <br />Il intervient principalement sur des projets Web JEE Agile sur de l’architecture, du
+     développement et du team lead.</p>
+     <p>Il s’investit dans la formation des plus jeunes mais aussi de ses collègues et amis. Il est d’ailleurs professeur
+     de Génie Logiciel à l'ESIEA et coach sur des projets de formation humaine.</p>
+     <p>Quand il a un peu de temps, entre deux biberons, il est aussi rédacteur (cf. ses <a
+     href="http://www.icauda.com/articles">articles</a>, <a href="http://blog.developpez.com/todaystip/">blogs</a>,
+     mémentos, etc.) pour la communauté Developpez.com et le magazine Programmez. Et quand il a vraiment du temps, vous
+     pouvez l'entendre en tant qu'orateur (<a href="http://fr.slideshare.net/thierryler">Conférences</a>, JUG, Podcast,
+     etc.)</p>
 
 lprecup‎:
   lastname: PRECUP
