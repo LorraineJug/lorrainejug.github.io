@@ -317,6 +317,9 @@ aardhuin:
   social :
     twitter: a14n
     github: a14n
+  bio: >
+    <p>Alexandre développe depuis presque 15 ans. Il a beaucoup fait usage des technologies web et des langages Java, 
+    Html, Js et Css. En 2012 il découvre Dart et contribue depuis activement à son essor.</p>‎
 
 dgageot:
   lastname: GAGEOT
