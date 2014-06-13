@@ -2,15 +2,15 @@
 layout: default
 ---
 
-<div id="sponsors" class="container">
+<div class="container">
     <div class="row">
         <article class="box">
             <header>
-                <h1><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
+                <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ page.title }}</a>
                 </h1>
             </header>
             {{ content }}
-            <footer>
+            <div class="article-footer">
                 <div class="date">
                     {% assign m = page.date | date: "%-m" %}
                     {{ page.date | date: "%-d" }}
@@ -29,16 +29,18 @@ layout: default
                         {% when '12' %}December
                     {% endcase %}
                     {{ page.date | date: "%Y" }}
-
-               </div>
+                </div>
                 {% if page.category %}
                 <div class="category">{{ page.category }}</div>
-                {% endif %} {% if page.tags %}
+                {% endif %}
+                {% if page.tags %}
                 <div class="tags">
-                    {% for tag in page.tags %} {{ tag }} {% endfor %}
+                    {% for tag in page.tags %}
+                        {{ tag }}
+                    {% endfor %}
                 </div>
                 {% endif %}
-            </footer>
+            </div>
         </article>
     </div>
 </div>

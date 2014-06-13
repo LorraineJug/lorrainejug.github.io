@@ -1,0 +1,40 @@
+<div class="row">
+    <article class="box">
+        <header>
+            <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ include.post.title }}</a>
+            </h1>
+        </header>
+        {{ include.post.content }}
+        <div class="article-footer">
+            <div class="date">
+                {% assign m = include.post.date | date: "%-m" %}
+                {{ include.post.date | date: "%-d" }}
+                {% case m %}
+                    {% when '1' %}Janvier
+                    {% when '2' %}Février
+                    {% when '3' %}Mars
+                    {% when '4' %}Avril
+                    {% when '5' %}Mai
+                    {% when '6' %}Juin
+                    {% when '7' %}Juillet
+                    {% when '8' %}Août
+                    {% when '9' %}September
+                    {% when '10' %}October
+                    {% when '11' %}November
+                    {% when '12' %}December
+                {% endcase %}
+                {{ include.post.date | date: "%Y" }}
+            </div>
+            {% if include.post.category %}
+            <div class="category">{{ include.post.category }}</div>
+            {% endif %}
+            {% if include.post.tags %}
+                <div class="tags">
+                    {% for tag in include.post.tags %}
+                        {{ tag }}
+                    {% endfor %}
+                </div>
+            {% endif %}
+        </div>
+    </article>
+</div>
