@@ -147,14 +147,6 @@ apupier‎:
   social :
     twitter: apupier
 
-mfiguiere‎:
-  lastname: FIGUIERE
-  firstname: Michael
-  gravatar: 63b37ec39d27ee1b4e29c29e45aa99b6
-  social :
-    twitter: mfiguiere
-    github: mfiguiere
-
 xroy:
   lastname: ROY
   firstname: Xavier
@@ -337,3 +329,32 @@ ndeloof:
     github: ndeloof
     homepage: http://blog.loof.fr
 
+
+dhdoan:
+  lastrname: DOAN
+  fistname: Duy Hai
+  gravatar: ffa96040bb4211cad1c66f385d8cb77b
+  social :
+    twitter: doanduyhai
+    github: doanduyhai
+  bio: >
+    <p>Développeur Java depuis toujours, Duy Hai s'est passionné pour le domaine du Big Data et plus particulièrement pour
+    Cassandra depuis plusieurs années. Il fait régulièrement des présentations pour vulgariser l'utilisation de Cassandra
+    au plus grand nombre.</p>
+    <p> La journée, il participe au projet Libon, le Viber/WhatsApp du groupe Orange en utilisant Cassandra comme solution
+    NoSQL.</p>
+    <p>Le soir, il code sur Achilles, un object mapper pour rendre le développement sur Cassandra encore plus aisé et
+    productif (approche TDD, génération du schéma, request tracing ...)</p>
+
+mfiguiere‎:
+  lastname: FIGUIERE
+  firstname: Michael
+  gravatar: 63b37ec39d27ee1b4e29c29e45aa99b6
+  social :
+    twitter: mfiguiere
+    github: mfiguiere
+  bio: >
+    <p>Michaël is an engineer and a developer advocate at DataStax where he actively works to improve Cassandra. At ease
+    with both Enterprise Java and lower level technologies, he specializes in distributed architectures and topics such
+    as NoSQL, search engines, and data processing. He often speaks about NoSQL in french Java User Groups and loves to
+    write about his favorite topics.</p>
