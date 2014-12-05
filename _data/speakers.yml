@@ -358,3 +358,22 @@ mfiguiere‎:
     with both Enterprise Java and lower level technologies, he specializes in distributed architectures and topics such
     as NoSQL, search engines, and data processing. He often speaks about NoSQL in french Java User Groups and loves to
     write about his favorite topics.</p>
+    
+acominotto:
+  lastname: COMINOTTO
+  firstname: Adrien
+  social :
+    twitter: adriencominotto
+  bio: >
+    <p>Ecrit du code!</p>
+
+avandendaele:
+  lastname: VANDENDAELE
+  firstname: Alexis
+  social :
+    twitter: _Xi_
+  bio: >
+    <p>Alexis Vandendaele est né avec une calculatrice en mains. Il a appris à parler et à coder en même temps. 
+    Actuellement il est développeur Java chez Sfeir. Il a une grande passion pour les nouvelles technologies montantes web 
+    ou non. Il est actuellement certifié Scala TypeSafe.</p>
+
