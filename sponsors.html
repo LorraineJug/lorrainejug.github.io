@@ -15,243 +15,59 @@ title: Nos Sponsors
     </div>
 </div>
 
-<div class="row">
-    <div class="box">
-        <h2>Partenaires Gold</h2>
 
-        <div class="sponsor">
-            <div class="col-md-2">
-                <a href="http://www.sfeir.com/" rel="external"><img
-                        src="{{ site.baseurl }}/images/sponsors/logo_sfeir.png" title="Sfeir"
-                        width="180" /></a>
+{% assign levels = site.data.sponsors | where:"actif", "true" | group_by:"level" %}
 
-                <ul class="list-inline">
-                    <li><a href="https://twitter.com/SFEIRfr" rel="external"><img
-                            src="{{ site.baseurl }}/images/icones/twitter_icon_47x47.png" alt="Twitter" height="47"
-                            width="47"/></a>
-                    </li>
-                </ul>
-            </div>
-            <div class="col-md-10">
-                <p>Le Groupe Sfeir compte plus de 200 collaborateurs répartis dans trois sociétés : à Paris, à
-                    Strasbourg et au Luxembourg. Organisé en pôles de compétences, ceux-çi sont managés par des team
-                    leaders qui sont eux-mêmes consultants. Chez Sfeir, le consultant est placé au coeur de la
-                    société. Esprit d’équipe, innovation et excellence sont les trois mots qui peuvent résumer
-                    l’expérience Sfeir. Notre philosophie : <a
-                            href="http://www.sfeir.com/decouvrir-sfeir/la-philosophie-sfeir/" rel="external">http://www.sfeir.com/decouvrir-sfeir/la-philosophie-sfeir/</a>
-                </p>
-            </div>
-        </div>
+{% for level in levels %}
+	{% for sponsor in level.items %}
 
-        <div class="sponsor">
-            <div class="col-md-2">
-                <a href="http://www.telecomnancy.eu/" rel="external"><img
-                        src="{{ site.baseurl }}/images/sponsors/logo_telecomnancy.png" title="Telecom Nancy"
-                        width="180" /></a>
+		<div class="row">
+			<div class="box">
+				<h2>Partenaire {{ level.name | capitalize }}</h2>
+				<div class="sponsor">
+					<div class="col-md-2">
+						<a href="{{ sponsor.url }}" rel="external"><img
+								src="{{ site.baseurl }}/images/sponsors/{{ sponsor.logo }}" title="{{ sponsor.name }}" /></a>
 
-                <ul class="list-inline">
-                    <li><a href="https://twitter.com/TELECOMNancy‎" rel="external"><img
-                            src="{{ site.baseurl }}/images/icones/twitter_icon_47x47.png" alt="Twitter" height="47"
-                            width="47"/></a>
-                    </li>
-                </ul>
-            </div>
+						{% if sponsor.twitter %}
+							<ul class="list-inline">
+								<li><a href="https://twitter.com/{{ sponsor.twitter }}" rel="external"><img
+										src="{{ site.baseurl }}/images/icones/twitter_icon_47x47.png" alt="Twitter" /></a>
+								</li>
+							</ul>
+						{% endif %}
+					</div>
+					<div class="col-md-10">
+						<p>{{ sponsor.presentation }}</p>
+					</div>
+				</div>
+			</div>
+		</div>
 
-            <div class="col-md-10">
-                <p>Ecole d'ingénieurs publique du Collégium Lorraine INP au sein de l'<a
-                        href="http://www.univ-lorraine.fr/">Université de Lorraine</a> et école associée de l'<a
-                        href="http://www.mines-telecom.fr/fr_accueil.html">Institut Mines-Télécom</a>, TELECOM Nancy
-                    délivre un diplôme reconnu par la <a href="http://www.cti-commission.fr/">Commission des Titres
-                        d'Ingénieur</a> (CTI).</p>
-
-                <p>Elle forme, en 3 ans, des ingénieurs généralistes en informatique et sciences et technologies du
-                    numérique. Le recrutement se fait à Bac+2 (recrutement principal - entrée en 1ère année) et
-                    Bac+4 (entrée en 2ème année).TELECOM Nancy est une école du <a
-                            href="http://concours.telecomint.eu/">Concours Télécom INT</a>, adhérent à la Banque
-                    Mines-Ponts pour le recrutement des CPGE MP, PC et PSI, à la Banque PT pour le recrutement des
-                    CPGE PT et au Concours Centrale Supélec pour le recrutement des CPGE TSI.</p>
-            </div>
-        </div>
-
-        <div class="sponsor">
-            <div class="col-md-2">
-                <a href="http://www.efluid.com/" rel="external"><img
-                        src="{{ site.baseurl }}/images/sponsors/logo_efluid.png" title="efluid"
-                        width="180" /></a>
-            </div>
-            <div class="col-md-10">
-            	<p><a href="http://www.efluid.com/" rel="external">efluid</a> est un progiciel créé en 2002 
-            	par <a href="http://www.uem-metz.fr/" rel="external">UEM</a> qui permet de gérer <strong>l’ensemble 
-            	des fonctions nécessaires aux gestionnaires de réseaux de distribution et aux fournisseurs d’énergies. 
-            	Il concerne aussi bien les activités électricité, gaz, chauffage urbain que télévision par câble, 
-            	internet, éclairage public et eau</strong>. efluid permet de modéliser les processus métiers 
-            	conformément aux besoins et aux règles du distributeur et du fournisseur ; dans un monde de l’énergie 
-            	en perpétuelle évolution, la force d’efluid est sa capacité à s’adapter à son environnement et à 
-            	l’organisation de l’entreprise. Son caractère innovant, unique en Europe, a déjà conduit plus de 30 
-            	entreprises à l’adopter. efluid est au centre d’une filiale créée entre UEM, ERDF et la Caisse des Dépôts 
-            	et Consignations (CDC).</p>
-            	
-            	<p>Pour pouvoir répondre aussi bien aux évolutions qu’aux contraintes de performances, efluid suit 
-            	l’évolution technique du monde Java. Actuellement, l’environnement de développement s’articule autour 
-            	d’Eclipse, Maven ou encore Git et une usine logicielle (Jenkins – Artifactory) permet d’automatiser les 
-            	tâches récurrentes. L’application (100% web), exploite une architecture Java EE sous Weblogic et 
-            	utilise une base de données Oracle. efluid SAS est également partenaire du LorraineJUG et participe à 
-            	des conventions tels que Devoxx. Ce projet sera à terme déployé chez 35 millions de clients en France.</p>            	                
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="row">
-    <div class="box">
-        <h2>Partenaires Silver</h2>
-        
-        <div class="sponsor">
-            <div class="col-md-2">
-                <a href="http://www.pharmagest.com/" rel="external"><img
-                        src="{{ site.baseurl }}/images/sponsors/logo_pharmagest.png" title="Pharmagest"
-                        width="180" /></a>
-            </div>
-
-            <div class="col-md-10">
-                <p>La société Pharmagest Interactive est le leader français de l’informatique officinale, avec 
-				43 % de parts de marché, 9 800 clients et 700 collaborateurs.</p>
-				
-				<p>Partenaire privilégié des pharmaciens depuis près de 30 ans, Pharmagest Interactive conçoit des 
-				solutions informatiques innovantes à destination des officines, et développe une activité e-business 
-				et e-media à fort potentiel en direction des laboratoires.</p>
-
-				<p>Le premier Logiciel de Gestion à Portail Intégré (LGPI®), créateur de valeurs pour le patient, 
-				le pharmacien et le laboratoire, dynamise les ventes, optimise les achats et enrichit le conseil au patient.</p>
-				
-				<p>C’est aussi le premier média à impact permanent en officine, qui assure aux laboratoires une communication
-				directe à destination du pharmacien et de ses patients.</p>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="row">
-    <div class="box">
-        <h2>Partenaires Ressources</h2>
-
-        <div class="sponsor">
-            <div class="col-md-2">
-                <a href="http://www.jetbrains.com/" rel="external"><img
-                        src="{{ site.baseurl }}/images/sponsors/logo_jetbrains.png" title="JetBrains"
-                        width="180" /></a>
-            </div>
-
-            <div class="col-md-10">
-                <p>JetBrains is a technology-leading software development firm specializing in the creation of
-                    intelligent, productivity-enhancing software. The company is widely known for its innovative,
-                    award-winning Java™ integrated development environment, IntelliJ™ IDEA (see details at
-                    www.jetbrains.com/idea), WebStorm — the smartest JavaScript IDE (<a
-                            href="www.jetbrains.com/webstorm">www.jetbrains.com/webstorm</a>), Kotlin — a powerful
-                    and very promising statically typed programming language that compiles to JVM byte codes and
-                    JavaScript (<a href="http://kotlin.jetbrains.org">kotlin.jetbrains.org</a> ), and TeamCity —
-                    very extensible and developer-friendly build server (<a href="www.jetbrains.com/teamcity">www.jetbrains.com/teamcity</a>
-                    ), among others. JetBrains maintains its headquarters in Prague, Czech Republic, with its R&D
-                    labs located in St. Petersburg and Moscow, Russia; Munich, Germany; and Boston, Massachusetts.
-                    For more information, see <a href="http://www.jetbrains.com">www.jetbrains.com</a>.</p>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="row">
-    <div class="box">
-
-        <h2>Partenaires Evenements</h2>
-
-        <div class="sponsor">
-            <div class="col-md-2">
-                <a href="http://www.devoxx.fr/" rel="external"><img
-                        src="{{ site.baseurl }}/images/sponsors/logo_devoxxfr.png" title="Devoxx France 2014"
-                        width="180"
-                        /></a>
-            </div>
-
-            <div class="col-md-10">
-                <p>Devoxx France est une conférence indépendante, organisée par le Paris Java User Group, au mois
-                    d’avril à Paris.</p>
-
-                <p>Durant 5 jours, la conférence vous propose plus de 130 présentations, des ateliers pratiques et
-                    des sessions approfondies, autour de la plateforme Java, du Web, du Mobile et des différents
-                    langages alternatifs, sur la JVM.</p>
-
-                <p>Devoxx France est ouvert à tous les développeurs, que vous soyez un expert Javascript, un coach
-                    Agile ou un architecte technique, la multitude des sujets proposés vous permet de construire
-                    votre propre programme. C’est aussi un espace d’exposition, avec 30 exposants/sponsors, pendant
-                    toute la durée de la conférence.</p>
-
-                <p><a href="http://www.devoxx.fr/">Découvrez</a> le programme, les thèmes et
-                    les présentateurs, de la 4ème édition de Devoxx France.</p>
-            </div>
-        </div>
-    </div>
-</div>
-<div class="row">
-    <div class="box">
-        <h2>Partenaires Média</h2>
-
-        <div class="sponsor">
-            <div class="col-md-2">
-                <a href="http://www.programmez.com/" rel="external"><img
-                        src="{{ site.baseurl }}/images/sponsors/logo_programmez.png" title="Programmez"
-                        width="180" /></a>
-            </div>
-
-            <div class="col-md-10">
-                <p>Programmez! est un magazine consacré au développement informatique et à tous les langages et
-                    technologies informatiques.</p>
-            </div>
-        </div>
-    </div>
-</div>
+	{% endfor %}
+{% endfor %}
 
 <div class="row">
     <div class="box">
         <h2>Mais aussi</h2>
 
-        <p>
-            <a href="http://www.google.fr/" rel="external"><img
-                    src="{{ site.baseurl }}/images/sponsors/logo_google.png"
-                    title="Google"/></a>
-            <a href="http://www.yobidrive.com/" rel="external"><img
-                    src="{{ site.baseurl }}/images/sponsors/logo_yobidrive.png" title="YobiDrive"/></a>
-            <a href="http://www.ippon.fr/" rel="external"><img
-                    src="{{ site.baseurl }}/images/sponsors/logo_ippon.png"
-                    title="Ippon"/></a>
-            <a href="http://www.xebia.fr" rel="external"><img
-                    src="{{ site.baseurl }}/images/sponsors/logo_xebia.png"
-                    title="Xebia"/></a>
-            <a href="https://www.jboss.org/" rel="external"><img
-                    src="{{ site.baseurl }}/images/sponsors/logo_jboss.png"
-                    title="JBoss"/></a>
-            <a href="http://www.couchbase.com/fr" rel="external"><img
-                    src="{{ site.baseurl }}/images/sponsors/logo_couchbase.png" title="Couch Base"/></a>
-            <a href="http://www.oracle.com/" rel="external"><img
-                    src="{{ site.baseurl }}/images/sponsors/logo_oracle.png"
-                    title="Oracle"/></a>
-            <a href="http://www.elasticsearch.com/" rel="external"><img
-                    src="{{ site.baseurl }}/images/sponsors/logo_elastiquesearch.png" title=Elasticsearch"/></a>
-            <a href="http://www.datastax.com/" rel="external"><img
-                    src="{{ site.baseurl }}/images/sponsors/logo_datastax.png" title=Datastax"/></a>
-            <a href="http://zeroturnaround.com/" rel="external">
-                <img src="{{ site.baseurl }}/images/sponsors/logo-zeroturnaround.png" title="Zeroturnaround" height="24" width="180" />
-            </a>
-        </div>
-        </p>
-    </div>
+        <span>
+			{% assign sponsors = site.data.sponsors | where:"actif", "false" %}
+			{% for sponsor in sponsors %}
+			<a href="{{ sponsor.url }}" rel="external"><img
+					src="{{ site.baseurl }}/images/sponsors/{{ sponsor.logo }}"
+					title="{{ sponsor.name }}"/></a>
 
-    <div class="row">
-        <div class="box">
-
-            <p>
-                Si vous êtes intéressés et que vous voulez sponsoriser d'une manière ou d'une autre le LorraineJUG, <a
-                    href="contact.html">contactez-nous</a> afin de recevoir notre plaquette.
-            </p>
-        </div>
+			{% endfor %}
+        </span>
     </div>
+</div>
+
+<div class="row">
+	<div class="box">
+		<p>
+			Si vous êtes intéressés et que vous voulez sponsoriser d'une manière ou d'une autre le LorraineJUG, <a
+				href="contact.html">contactez-nous</a> afin de recevoir notre plaquette.
+		</p>
+	</div>
 </div>
