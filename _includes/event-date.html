@@ -1,0 +1,34 @@
+<div class="event-date">
+	<div class="dt-start">
+		<time datetime="{{ page.event-date }}">
+			{% assign m = page.event-date | date: "%-m" %}
+			{{ page.event-date | date: "%-d" }}
+			{% case m %}
+				{% when '1' %}Janvier
+				{% when '2' %}Février
+				{% when '3' %}Mars
+				{% when '4' %}Avril
+				{% when '5' %}Mai
+				{% when '6' %}Juin
+				{% when '7' %}Juillet
+				{% when '8' %}Août
+				{% when '9' %}September
+				{% when '10' %}October
+				{% when '11' %}November
+				{% when '12' %}December
+			{% endcase %}
+			{{ page.event-date | date: "%Y, %Hh%M" }}
+		</time>
+	</div>
+
+	<div class="p-location">
+		{% assign location = site.data.places | where:"id",page.event-place | first %}
+		<span class="">{{ location.name }}</span>
+		<br />
+		<span class="street-address">{{ location.street-address }}</span>
+		<span class="postal-code">{{ location.postal-code }}</span>
+		<span class="locality">{{ location.locality }}</span>
+		<span class="country-name">{{ location.country-name }}</span>
+	</div>
+
+</div>

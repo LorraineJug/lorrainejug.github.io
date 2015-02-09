@@ -11,6 +11,7 @@ $jaune-fonce: #5C3C16;
 $orange: #F09427;
 $soft-grey: #EEEEEE;
 $white: #FFFFFF;
+$ligth-blue: #428BCA;
 $transparent: rgba(255, 255, 255, 0.9);
 
 body {
@@ -36,7 +37,6 @@ h1, h2 {
 }
 
 p, ol, ul {
-  font-size: 1.25em;
   line-height: 1.6;
   color: #000;
   text-align: justify;
@@ -45,6 +45,11 @@ p, ol, ul {
 hr {
   border-color: #999999;
   max-width: 400px;
+}
+
+a {
+  color: $ligth-blue;
+  text-decoration: none;
 }
 
 .content {
@@ -210,4 +215,41 @@ footer {
 
 .top-buffer { 
   margin-top:20px; 
+}
+
+.programme {
+  ul {
+    margin: 5px 0px 5px 25px;
+    font-weight: bold;
+
+    li {
+
+      p {
+        font-weight: normal;
+        margin-left: 15px;
+        margin-right: 15px;
+      }
+    }
+  }
+}
+
+.event-date, .event-inscription {
+  text-align: center;
+  margin: 25px 0px 25px 0px;
+}
+
+.event-date {
+  .dt-start {
+    color: $brun-fonce;
+    font-size: 1.3em;
+  }
+
+  .p-location {
+    font-weight: bold;
+  }
+
+}
+
+.event-inscription {
+  font-size: small;
 }
