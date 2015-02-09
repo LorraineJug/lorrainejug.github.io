@@ -4,20 +4,19 @@
 
 [Jekyll](http://jekyllrb.com/docs/installation/) doit etre installé et fonctionnel.
 
-Le plug in jekyll-sass doit également être instalé => gem install jekyll-sass
 
 ## Lancement
 
 Dans le répertoire du projet utilisez la ligne de commande
 
-`jekyll serve --baseurl '' --trace -w`
+`jekyll serve --trace -w`
 
 
 ## Deploiement sur github-pages
 
-`git push -u origin master`
+`git push origin master`
 
 
 ## Visualiser le site
 
-http://lorrainejug.github.io/
+http://www.lorrainejug.org/
