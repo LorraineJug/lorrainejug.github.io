@@ -247,9 +247,20 @@ footer {
   .p-location {
     font-weight: bold;
   }
-
 }
 
 .event-inscription {
   font-size: small;
+}
+
+#status {
+  h2, h3 {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+  }
+
+  h2 {
+   font-weight: bold;
+  }
 }
