@@ -273,14 +273,6 @@ fvaille:
   social :
     linkedin: fvaille
 
-tgrall‎:
-  lastname: GRALL
-  firstname: Tugdual
-  gravatar  : aab9ac774f61c5d9bf143b5a1bfe901b
-  social :
-    twitter: tgrall
-    github: tgrall
-
 dpilato:
   lastname: PILATO
   firstname: David
@@ -310,7 +302,7 @@ aardhuin:
     twitter: a14n
     github: a14n
   bio: >
-    <p>Alexandre développe depuis presque 15 ans. Il a beaucoup fait usage des technologies web et des langages Java, 
+    <p>Alexandre développe depuis presque 15 ans. Il a beaucoup fait usage des technologies web et des langages Java,
     Html, Js et Css. En 2012 il découvre Dart et contribue depuis activement à son essor.</p>‎
 
 dgageot:
@@ -360,7 +352,7 @@ mfiguiere‎:
     with both Enterprise Java and lower level technologies, he specializes in distributed architectures and topics such
     as NoSQL, search engines, and data processing. He often speaks about NoSQL in french Java User Groups and loves to
     write about his favorite topics.</p>
-    
+
 acominotto:
   lastname: COMINOTTO
   firstname: Adrien
@@ -375,8 +367,8 @@ avandendaele:
   social :
     twitter: _Xi_
   bio: >
-    <p>Alexis Vandendaele est né avec une calculatrice en mains. Il a appris à parler et à coder en même temps. 
-    Actuellement il est développeur Java chez Sfeir. Il a une grande passion pour les nouvelles technologies montantes web 
+    <p>Alexis Vandendaele est né avec une calculatrice en mains. Il a appris à parler et à coder en même temps.
+    Actuellement il est développeur Java chez Sfeir. Il a une grande passion pour les nouvelles technologies montantes web
     ou non. Il est actuellement certifié Scala TypeSafe.</p>
 
 ahassler:
@@ -388,10 +380,10 @@ ahassler:
     github: hasalex
     linkedin: hassler
   bio: >
-   <p>Alexis Hassler est développeur Java depuis presque quinze ans. Il exerce son métier comme indépendant, en codant, 
-   mais aussi en accompagnant ou formant les entreprises pour les aider à améliorer leur façon de développer et de 
+   <p>Alexis Hassler est développeur Java depuis presque quinze ans. Il exerce son métier comme indépendant, en codant,
+   mais aussi en accompagnant ou formant les entreprises pour les aider à améliorer leur façon de développer et de
    déployer leurs applications Java.</p>
-   <p>Il est co-leader du <a href="http://www.lyonjug.org/">LyonJUG</a> et aide à l’organisation de 
+   <p>Il est co-leader du <a href="http://www.lyonjug.org/">LyonJUG</a> et aide à l’organisation de
    <a href="http://www.mix-it.fr">Mix-IT</a>, l'excellente conférence annuelle à Lyon.</p>
 
 jlmonteiro:
@@ -424,3 +416,33 @@ rmannibucau:
    comme CukeSpace (intégration Cucumber pour Arquillian).<p>
    <p>Aujourd’hui je travaillle pour <a href="http://www.tomitribe.com/">Tomitribe</a>, société qui s’est créée pour
    soutenir TomEE et l’Open Source il y a un peu plus d’un an."</p>
+
+tgrall‎:
+  lastname: GRALL
+  firstname: Tugdual
+  gravatar  : aab9ac774f61c5d9bf143b5a1bfe901b
+  social :
+    twitter: tgrall
+    github: tgrall
+  bio: >
+    <p>Tug est Technical Evangelist chez MongoDB, et un développeur passionné! Il travaille actuellement avec les
+    communautés de développeurs en Europe pour faciliter l’adoption du NosQL/MongoDB. Avant de rejoindre MongoDB,
+    Tug a travaillé chez Couchbase (Technical Evangelist) , eXo Platform (CTO) et Oracle (Product Manager/Developer
+    OracleAS JavaEE).</p>
+    <p>Tug a participé à de nombreuses conférences DevoxxFR, FOSDEM, Google I/O, JavaOne et de nombreux meetups/groupes
+    d'utilisateurs. Tugdual est co-fondateur du NantesJUG qui organise depuis 2008 des réunions mensuelles autour
+    l’écosystème Java. Lorsqu’il a le temps, il maintient un <a href="http://tugdualgrall.blogspot.com">blog</a>
+    et une <a href="http://www.resultri.com">application</a> déployée sur Google App Engine. Vous pouvez le suivre sur
+    twitter.</p>
+
+ahelaili:
+  lastname: HELAILI
+  firstname: Alain
+  social :
+    twitter: AlainHelaili
+  bio: >
+    <p>Alain est Solution Architect chez MongoDB. Il accompagne les utilisateurs français de MongoDB dans le design
+    de leurs architectures et applications. Auparavant, Alain a notamment travaillé chez BEA Systems, dynaTrace
+    et AppDynamics. </p>
+    <p>Pendant son temps libre, il tente d’implémenter son idée de startup n°246756, tout en étant distrait
+    par ses reflexions sur l’idée suivante… </p>

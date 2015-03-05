@@ -4,7 +4,6 @@ title: LorraineJug
 ---
 
 <div class="container">
-    {% for post in site.posts limit:1 %}
-        {% include article.html post=post %}
-    {% endfor %}
+	{% assign post = site.posts | where:"category", "Annonce" | first %}
+    {% include article.html post=post %}
 </div>
