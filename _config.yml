@@ -7,7 +7,7 @@ highlighter: pygments
 baseurl:
 paginate: 5
 paginate_path: events/:num
+timezone: Europe/Paris
 sass:
     sass_dir: css/_sass
     style: compressed             # nested|expanded|compact|compressed
-
