@@ -168,12 +168,6 @@ jmdoudoux:
     douzaine d'années, à la rédaction de deux didacticiels, intitulés <a href="http://www.jmdoudoux.fr">Développons en
     Java</a>, diffusés sous licence GNU FDL. Il est également le co-fondateur du Lorraine JUG et membre de YaJUG.</p>
 
-frenout‎:
-  lastname: RENOUT
-  firstname: Frédéric
-  social :
-    twitter: fred_renout
-
 rmaton:
   lastname: MATON
   firstname: Romain
@@ -446,3 +440,38 @@ ahelaili:
     et AppDynamics. </p>
     <p>Pendant son temps libre, il tente d’implémenter son idée de startup n°246756, tout en étant distrait
     par ses reflexions sur l’idée suivante… </p>
+
+frenout‎:
+  lastname: RENOUT
+  firstname: Frédéric
+  photo: frenout.jpg
+  social :
+    twitter: fred_renout
+    linkedin: fredericrenout
+  bio: >
+    <p>Frédéric est un codeur dans l’âme. Il développe depuis plus de 20 ans. Curieux, il apprécie de se tenir au
+    courant des nouveautés et aime bien les tester.</p>
+    <p>Apres un long passage dans diverses SSII il a récemment posé ses bagages chez Manuloc ou il officie en
+    temps que chef de projet sur des projets mêlant technologies Java EE, SQL, NoSQL, Html5, bref un vrai
+    buzzword bingo à lui tout seul.</p>
+    <p>Frédéric est aussi trésorier du LorraineJUG.</p>
+    <p>A ses heures perdues,il membre du cercle de magie de lorraine et entraîneur de handball. Des rumeurs
+    prétendent qu'il lui reste du temps pour profiter de sa famille mais aucune preuve formelle n'a pu être
+    apportée à ce jour.</p>
+
+rgoetter:
+  lastname: GOETTER
+  firstname: Raphael
+  photo: rgotter.jpg
+  social:
+      twitter: goetter
+      homepage: http://goetter.fr/
+      github: raphaelgoetter
+  bio: >
+    <p>Raphael travaille dans le monde merveilleux du Web, fondateur d’Alsacréations et auteur chez Eyrolles
+    à ses heures perdues.</p>
+    <p>Son quotidien est parsemé de missions toutes plus captivantes les unes que les autres : résoudre des
+    problèmes CSS insolubles, faire des blagues idiotes au bureau, louer son Alsace natale et boire un
+    bon picon-bière.</p>
+    <p>Il dispose par ailleurs de superpouvoirs phénoménaux : il sait marcher sur les mains (eh ouais), il
+    réussit à faire des photos floues, et par dessus tout je sait parler à l’oreille d’IE6 (avec un sonotone).</p>
