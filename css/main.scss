@@ -129,26 +129,32 @@ a {
   margin: 0 auto 0;
 }
 
-.sponsor {
-	padding-bottom: 20px;
-}
 
 footer {
   background: $transparent;
+
   h1 {
     padding: 20px 0px;
   }
+
   div {
     text-align: center;
+    align: center;
+
     .sponsors {
-      padding-bottom: 10px;
       border-bottom: solid 1px;
+      padding-bottom: 20px;
+    }
+
+    p {
+      margin: 0;
+      padding: 10px 0;
+      font-size: small;
     }
   }
-  p {
-    margin: 0;
-    padding: 10px 0;
-    font-size: small;
+
+  .sponsors-img>a>img {
+    margin: 20px;
   }
 }
 
@@ -213,8 +219,8 @@ footer {
   }
 }
 
-.top-buffer { 
-  margin-top:20px; 
+.top-buffer {
+  margin-top:20px;
 }
 
 .programme {
