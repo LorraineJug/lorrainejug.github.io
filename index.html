@@ -4,6 +4,6 @@ title: LorraineJug
 ---
 
 <div class="container">
-	{% assign post = site.posts | where:"category", "Annonce" | first %}
-    {% include article.html post=post %}
+	{% assign post = site.posts | where:"edito", true | first %}
+  {% include article.html post=post %}
 </div>
