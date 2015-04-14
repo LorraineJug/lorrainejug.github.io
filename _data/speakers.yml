@@ -253,14 +253,6 @@ sletelie:
     twitter: sebmade
     github: sebmade
 
-gscheibel:
-  lastname: SCHEIBEL
-  firstname: Guillaume
-  gravatar: 0d82c7c12dbc0a5f96e098d3e13b16c3
-  social :
-    twitter: g_scheibel
-    github: g_scheibel
-
 fvaille:
   lastname: VAILLE
   firstname: François
@@ -440,6 +432,20 @@ ahelaili:
     et AppDynamics. </p>
     <p>Pendant son temps libre, il tente d’implémenter son idée de startup n°246756, tout en étant distrait
     par ses reflexions sur l’idée suivante… </p>
+
+gscheibel:
+  lastname: SCHEIBEL
+  firstname: Guillaume
+  gravatar: 0d82c7c12dbc0a5f96e098d3e13b16c3
+  social :
+    twitter: g_scheibel
+    github: gscheibel
+    homepage: http://www.gscheibel.net
+  bio : >
+    <p>Guillaume est développeur chez Expedia à Londres et a travaillé durant quelques années en France pour
+    une grosse société de services. Il a également co-créé le JUG pour la région de Strasbourg (ElsassJUG) et
+    contribue à 2 projets open-sources (Hibernate OGM et Infinispan). De temps en temps, il parle à différentes
+    conférences (Soft-Shake, Devoxx FR et BE) ou JUGs.</p>
 
 frenout‎:
   lastname: RENOUT
