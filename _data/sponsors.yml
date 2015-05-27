@@ -1,6 +1,6 @@
 - id: sfeir
   name: Groupe Sfeir
-  level: gold
+  level: "gold"
   actif: "true"
   url: http://www.sfeir.com/
   logo: logo_sfeir.png
@@ -14,7 +14,7 @@
 
 - id: telecomnancy
   name: Telecom Nancy
-  level: gold
+  level: "gold"
   actif: "true"
   url: http://www.telecomnancy.eu/
   logo: logo_telecomnancy.png
@@ -32,7 +32,7 @@
 
 - id: efluid
   name: eFluid
-  level: gold
+  level: "gold"
   actif: "true"
   url: http://www.efluid.com/
   logo: logo_efluid.png
@@ -55,7 +55,7 @@
 
 - id: pharmagest
   name: Pharmagest
-  level: silver
+  level: "silver"
   actif: "true"
   url: http://www.pharmagest.com/
   logo: logo_pharmagest.png
@@ -73,7 +73,7 @@
 
 - id: jetbrains
   name: JetBrains
-  level: ressources
+  level: "ressources"
   actif: "true"
   url: http://www.jetbrains.com/
   logo: logo_jetbrains.png
@@ -92,7 +92,7 @@
 
 - id: devoxxfr
   name: Devoxx France
-  level: evenement
+  level: "evenement"
   actif: "true"
   url: http://www.devoxx.fr/
   logo: logo_devoxxfr.png
@@ -109,7 +109,7 @@
 
 - id: programmez
   name: Magazine Programmez
-  level: media
+  level: "media"
   actif: "true"
   url: http://www.programmez.com/
   logo: logo_programmez.png
@@ -177,3 +177,9 @@
   actif: "false"
   url:  http://www.zeroturnaround.com/
   logo: logo_zeroturnaround.png
+
+- id: versusmind
+  name: Versusmind
+  actif: "false"
+  url:  http://www.versusmind.eu/
+  logo: logo_versusmind.png

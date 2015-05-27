@@ -1,0 +1,26 @@
+<div class="container sponsors">
+  Nos partenaires :
+
+  {% assign sponsors = site.data.sponsors | where:"actif", "true" | where:"level", "gold" %}
+
+  <div class="sponsors-img">
+    {% for sponsor in sponsors %}
+      <a href="{{ sponsor.url }}" rel="external">
+        <img src="{{ site.baseurl }}/images/sponsors/{{ sponsor.logo }}" title="{{ sponsor.name }}" />
+      </a>
+    {% endfor %}
+  </div>
+
+  {% assign pagesponsors = page.sponsors %}
+
+  <div class="sponsors-img">
+    {% for pagesponsor in pagesponsors %}
+      {% assign sponsor = site.data.sponsors | where:"id",pagesponsor | first %}
+      <a href="{{ sponsor.url }}" rel="external">
+        <img src="{{ site.baseurl }}/images/sponsors/{{ sponsor.logo }}" title="{{ sponsor.name }}" />
+      </a>
+    {% endfor %}
+  </div>
+
+
+</div>
