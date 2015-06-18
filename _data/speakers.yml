@@ -147,27 +147,6 @@ apupier‎:
   social :
     twitter: apupier
 
-xroy:
-  lastname: ROY
-  firstname: Xavier
-  photo: xroy.jpg
-  social :
-    twitter: xavroy
-
-jmdoudoux:
-  lastname: DOUDOUX
-  firstname: Jean-Michel
-  photo: jmdoudoux.jpg
-  social :
-    twitter: jmdoudoux
-    homepage: http://www.jmdoudoux.fr
-  bio: >
-    <p>Passionné par le développement de logiciels depuis son adolescence et par la veille technologique, Jean-Michel
-    possède une longue expérience, en SSII et personnelle, dans l'écriture d'applications avec différents langages.</p>
-    <p>Utilisant Java depuis sa version 1.0, il aime partager sa passion notamment en se consacrant, depuis plus d'une
-    douzaine d'années, à la rédaction de deux didacticiels, intitulés <a href="http://www.jmdoudoux.fr">Développons en
-    Java</a>, diffusés sous licence GNU FDL. Il est également le co-fondateur du Lorraine JUG et membre de YaJUG.</p>
-
 rmaton:
   lastname: MATON
   firstname: Romain
@@ -481,3 +460,51 @@ rgoetter:
     bon picon-bière.</p>
     <p>Il dispose par ailleurs de superpouvoirs phénoménaux : il sait marcher sur les mains (eh ouais), il
     réussit à faire des photos floues, et par dessus tout il sait parler à l’oreille d’IE6 (avec un sonotone).</p>
+
+xroy:
+  lastname: ROY
+  firstname: Xavier
+  photo: xroy.jpg
+  social :
+    twitter: xavroy
+
+jmdoudoux:
+  lastname: DOUDOUX
+  firstname: Jean-Michel
+  photo: jmdoudoux.jpg
+  social :
+    twitter: jmdoudoux
+    homepage: http://www.jmdoudoux.fr
+  bio: >
+    <p>Passionné par le développement de logiciels depuis son adolescence et par la veille technologique, Jean-Michel
+    possède une longue expérience, en SSII et personnelle, dans l'écriture d'applications avec différents langages.</p>
+    <p>Utilisant Java depuis sa version 1.0, il aime partager sa passion notamment en se consacrant, depuis plus d'une
+    douzaine d'années, à la rédaction de deux didacticiels, intitulés <a href="http://www.jmdoudoux.fr">Développons en
+    Java</a>, diffusés sous licence GNU FDL. Il est également le co-fondateur du Lorraine JUG et membre de YaJUG.</p>
+
+sdalichampt:
+  lastname: DALICHAMPT
+  firstname: Samuel
+  gravatar: b42ae03956217a57fc702b278c3ee645
+  social :
+    twitter: sdalichampt
+    github: sdalichampt
+    viadeo: samueldalichampt
+    linkedin: samueldalichampt
+    homepage: http://www.dalichampt.fr
+  bio : >
+    <p>Avec des débuts à l'ecole primaire sur des TO7 et des MO5, puis sur Amastrad et PC à la maison, l'ordinateur
+    a toujours fait partit de son quotidien. Samuel a découvert le code très tôt. Quoi de plus naturel que d'en
+    faire son metier.</p>
+
+gbilley:
+  lastname: BILLEY
+  firstname: Guillaume
+  photo: gbilley.jpg
+  social :
+    twitter: guibill
+    github: guilbill
+
+cbelhaffef:
+  lastname: BELHAFFEF
+  firstname: Charif
