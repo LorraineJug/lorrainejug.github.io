@@ -508,3 +508,30 @@ gbilley:
 cbelhaffef:
   lastname: BELHAFFEF
   firstname: Charif
+
+amaroulier:
+  lastname: MAROULIER
+  firstname: Arthur
+  social :
+    twitter: ArthurMaroulier
+    viadeo: arthur.maroulier
+    homepage: http://cv.arthurmaroulier.fr
+  bio : >
+    <p>Arthur est consultant chez Versusmind, il a principalement de l'expérience en développement web et
+    d'applications mobiles hybrides. Il aime découvrir et tester les nouvelles technologies pour ensuite les
+    partager. Du framework PHP et Javascript, au potentiel du RaspberryPI, en passant par l'impression 3D,
+    que ce soit logiciel ou matériel, Arthur adore. Toujours à la recherche de la techno qui va tout changer
+    et quelque peu mordu par la pomme.</p>
+
+bzohar:
+  lastname: ZOHAR
+  firstname:  Benoit
+  social :
+    twitter: benoitzohar
+    linkedin: benoit-zohar
+    homepage: http://benoitzohar.fr/
+  bio : >
+    <p>Benoit est Directeur Technique à Versusmind et un développeur plus que passionné. Féru des nouvelles
+    technologies, il trouve toujours une bonne excuse pour démarrer un nouveau projet dans un langage qu'il
+    ne connaît pas encore. Il a plus d'une corde à son arc, mais son fer de lance du moment c'est le
+    Javascript et le mobile.</p>
