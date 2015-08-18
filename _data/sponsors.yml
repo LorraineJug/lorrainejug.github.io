@@ -99,13 +99,23 @@
   twitter: DevoxxFR
   presentation: >
     <p>Devoxx France est une conférence indépendante, organisée par le Paris Java User Group, au mois d’avril à Paris.</p>
-    <p>Durant 5 jours, la conférence vous propose plus de 130 présentations, des ateliers pratiques et des sessions
+    <p>Durant 3 jours, la conférence vous propose plus de 130 présentations, des ateliers pratiques et des sessions
     approfondies, autour de la plateforme Java, du Web, du Mobile et des différents langages alternatifs, sur la JVM.</p>
     <p>Devoxx France est ouvert à tous les développeurs, que vous soyez un expert Javascript, un coach Agile ou un
     architecte technique, la multitude des sujets proposés vous permet de construire votre propre programme. C’est
     aussi un espace d’exposition, avec 30 exposants/sponsors, pendant toute la durée de la conférence.</p>
     <p><a href="http://www.devoxx.fr/">Découvrez</a> le programme, les thèmes et les présentateurs, de la 4ème édition
     de Devoxx France.</p>
+
+- id: devoxx
+  name: Devoxx
+  level: "evenement"
+  actif: "true"
+  url: http://reg.devoxx.be/public#DV15
+  logo: logo_devoxx.gif
+  twitter: devoxx
+  presentation: >
+    <p>Devoxx est la plus grande conférence indépendante autour de Java. Elle est organisée tout les ans depuis 2001.</p>
 
 - id: programmez
   name: Magazine Programmez
