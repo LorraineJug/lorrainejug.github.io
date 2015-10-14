@@ -4,7 +4,7 @@ title: Soirée Barcamp
 category: Annonce
 edito: true
 tags: ["Barcamp"]
-event-date: 2015-11-03 18:30:00 +0200
+event-date: 2015-11-03 18:30:00 +0100
 event-place: telecomnancy
 eventbrite-id: 19068651851
 sponsors: ["versusmind"]
