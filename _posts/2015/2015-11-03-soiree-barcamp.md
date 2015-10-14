@@ -25,7 +25,7 @@ sponsors: ["versusmind"]
 		<p>Vous venez d'essayer un nouveau framework, une nouvelle techno, et vous avez envie d'en parler ?</p>
 		<p>Vous avez mis en place une nouvelle méthode au sein de votre équipe et vous pensez que tout le monde doit le savoir ?</p>
 		<p>Vous voulez faire un retour d'expérience?</p>
-		<p>Profitez de ce barcamp pour venir en parler, de manière informelle, autours d'une table  entouré d'autres passionés.</p></li>
+		<p>Profitez de ce barcamp pour venir en parler, de manière informelle, autours d'une table  entouré d'autres passionnés.</p></li>
 		<li>20:30 - Drink et tombola…</li>
 	</ul>
 </div>
