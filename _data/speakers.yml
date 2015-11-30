@@ -482,21 +482,6 @@ jmdoudoux:
     douzaine d'années, à la rédaction de deux didacticiels, intitulés <a href="http://www.jmdoudoux.fr">Développons en
     Java</a>, diffusés sous licence GNU FDL. Il est également le co-fondateur du Lorraine JUG et membre de YaJUG.</p>
 
-sdalichampt:
-  lastname: DALICHAMPT
-  firstname: Samuel
-  gravatar: b42ae03956217a57fc702b278c3ee645
-  social :
-    twitter: sdalichampt
-    github: sdalichampt
-    viadeo: samueldalichampt
-    linkedin: samueldalichampt
-    homepage: http://www.dalichampt.fr
-  bio : >
-    <p>Avec des débuts à l'ecole primaire sur des TO7 et des MO5, puis sur Amastrad et PC à la maison, l'ordinateur
-    a toujours fait partit de son quotidien. Samuel a découvert le code très tôt. Quoi de plus naturel que d'en
-    faire son metier.</p>
-
 gbilley:
   lastname: BILLEY
   firstname: Guillaume
@@ -537,3 +522,18 @@ bzohar:
     technologies, il trouve toujours une bonne excuse pour démarrer un nouveau projet dans un langage qu'il
     ne connaît pas encore. Il a plus d'une corde à son arc, mais son fer de lance du moment c'est le
     Javascript et le mobile.</p>
+
+sdalichampt:
+  lastname: DALICHAMPT
+  firstname: Samuel
+  gravatar: b42ae03956217a57fc702b278c3ee645
+  social :
+    twitter: sdalichampt
+    github: sdalichampt
+    viadeo: samueldalichampt
+    linkedin: samueldalichampt
+    homepage: http://www.dalichampt.fr
+  bio : >
+    <p>Avec des débuts à l'ecole primaire sur des TO7 et des MO5, puis sur Amastrad et PC à la maison, l'ordinateur
+    a toujours fait partit de son quotidien. Samuel a découvert le code très tôt. Quoi de plus naturel que d'en
+    faire son metier.</p>
