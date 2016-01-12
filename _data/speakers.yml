@@ -107,15 +107,6 @@ agoncalves:
     experiences, he has written two books about Java EE 5 and recently on Java EE 6 with Glassfish. It explains, in a
     practical way, how to develop an application using most of the Java EE specifications.</p>‎
 
-amoussinepouchkine:
-  lastname: MOUSSINE-POUCHKINE
-  firstname: Alexis
-  gravatar: aafd9d928b31528176eeb940f671bf96
-  social :
-    twitter: alexismp
-    github: alexismp
-  bio: <p>Ambassadeur Java EE et GlassFish chez Oracle</p>‎
-
 gbort:
   lastname: BORT
   firstname: Guillaume
@@ -537,3 +528,15 @@ sdalichampt:
     <p>Avec des débuts à l'ecole primaire sur des TO7 et des MO5, puis sur Amastrad et PC à la maison, l'ordinateur
     a toujours fait partit de son quotidien. Samuel a découvert le code très tôt. Quoi de plus naturel que d'en
     faire son metier.</p>
+
+amoussinepouchkine:
+  lastname: MOUSSINE-POUCHKINE
+  firstname: Alexis
+  gravatar: aafd9d928b31528176eeb940f671bf96
+  social :
+    twitter: alexismp
+    github: alexismp
+  bio : >
+    <p>Après une décennie passée chez Sun Microsystems et Oracle à travailler sur Java Alexis (MP)
+    Moussine-Pouchkine est désormais membre de l'équipe relations développeurs chez Google ou il s'occupe
+    plus particulièrement de Cloud.</p>
