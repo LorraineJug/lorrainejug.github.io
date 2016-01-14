@@ -4,7 +4,7 @@ title: Soirée Google HashCode
 category: Annonce
 edito: true
 tags: ["Google", "Hashcode", "Concours"]
-event-date: 2016-02-11 18:00:00
+event-date: 2016-02-11 18:00:00 +0100
 event-place: telecomnancy
 ---
 
