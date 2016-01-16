@@ -1,5 +1,4 @@
 ---
----
 layout: event
 title: Soirée Google Cloud
 category: Annonce
