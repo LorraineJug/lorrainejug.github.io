@@ -1,4 +1,5 @@
 ---
+---
 layout: event
 title: Soirée Google Cloud
 category: Annonce
@@ -37,6 +38,18 @@ autour de la plateforme cloud de Google.
     </li>
 		<li>20:30 - Drink et tombola…</li>
 	</ul>
+</div>
+<div class="flash-news">
+    <h1>Flash news : Lab Cloud Google de 14h à 17h</h1>
+    <p>
+        En amont de la soirée Google Cloud, Alexis MOUSSINE-POUCHKINE vous propose un lab autours de cette même thématique. <br/>
+        Au programme, 3h de développement et de prise en main des outils Google Cloud avec Alexis MOUSSINE-POUCHKINE. <br/>
+        <b>Ce lab se déroulera le même jour de 14h00 à 17h00 </b>au même endroit (TELECOM Nancy) avec les étudiants de 3ème année. <br/>
+        Pour des raisons d'organisations les places sont limités. <br/>
+        <b>Inscrivez-vous au Lab : <br/>
+        <a href="https://www.eventbrite.fr/e/billets-lab-google-cloud-20828359183">Inscription</a> <br/></b> 
+        Veillez à bien indiquer une adresse mail valide afin que l'on puisse vous communiquer les pré-requis. Amenez vos PC. N'oubliez pas de vous inscrire également à la soirée !
+    </p>
 </div>
 
 {% include event-inscription.html %}

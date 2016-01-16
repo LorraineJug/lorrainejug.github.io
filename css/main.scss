@@ -9,6 +9,7 @@ $brun-clair: #B26D28;
 $brun-fonce: #FEA52E;
 $jaune-fonce: #5C3C16;
 $orange: #F09427;
+$orange-light: rgba(240,148,39,0.6);
 $soft-grey: #EEEEEE;
 $white: #FFFFFF;
 $ligth-blue: #428BCA;
@@ -269,4 +270,19 @@ footer {
   h2 {
    font-weight: bold;
   }
+}
+
+.flash-news {
+  h1 {
+    text-align : center;
+    background-color : $orange;
+    padding-top : 4px;
+    color : $white;
+    border-radius : 5px;
+  }
+  p {
+    padding: 10px;
+  }
+  background-color : $orange-light;
+  border-radius : 5px;
 }
