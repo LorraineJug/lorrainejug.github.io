@@ -8,7 +8,6 @@ event-date: 2016-02-11 18:00:00 +0100
 event-place: telecomnancy
 ---
 
-
 <h1>Qu’est ce que c’est ?</h1>
 Chaque année Google organise le concours Hash Code. Pour l’occasion, les ingénieurs de Google imaginent un défi technique, directement inspiré d’un problème réel.
 En 2014, il s’agissait d’optimiser le trajet des voitures Street View dans Paris, de manière à permettre le plus de prises de vues possibles dans un temps limité.

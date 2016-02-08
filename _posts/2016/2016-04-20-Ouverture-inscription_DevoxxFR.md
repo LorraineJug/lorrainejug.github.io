@@ -6,6 +6,7 @@ tags: ["Conférence", "DevoxxFr"]
 edito: true
 ---
 
+
 Les [inscriptions](http://reg.devoxx.fr) pour [Devoxx france](http://www.devoxx.fr/), la
 plus grande conférence Java indépendante en France, sont désormais ouvertes.
 
