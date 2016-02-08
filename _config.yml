@@ -2,8 +2,9 @@ name: LorraineJug
 description: Lorraine Java User Group
 url: http://www.lorrainejug.org
 exclude: [README.md, _site/, lorrainejug.github.io.iml]
-markdown: redcarpet
-highlighter: pygments
+gems: [jekyll-paginate]
+markdown: kramdown
+highlighter: rouge
 baseurl:
 paginate: 5
 paginate_path: events/:num
