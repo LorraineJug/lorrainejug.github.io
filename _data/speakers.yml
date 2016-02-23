@@ -157,14 +157,6 @@ rmaton:
     <p>Il est aussi le créateur de web-tambouille.fr dans lequel il traite de sujets tels que Java, Node, HTML5,
     Javascript, Programmation Fonctionnelle, Android et bien d'autres !‎</p>
 
-asabotdurand:
-  lastname: SABOT-DURAND
-  firstname: Antoine
-  gravatar: 98d0697142b0d75568acf12b2767b01c
-  social :
-    twitter: antoine_sd
-    github: antoinesd
-
 wtrombini:
   lastname: TROMBINI
   firstname: Wilfried
@@ -540,3 +532,15 @@ amoussinepouchkine:
     <p>Après une décennie passée chez Sun Microsystems et Oracle à travailler sur Java Alexis (MP)
     Moussine-Pouchkine est désormais membre de l'équipe relations développeurs chez Google ou il s'occupe
     plus particulièrement de Cloud.</p>
+
+asabotdurand:
+  lastname: SABOT-DURAND
+  firstname: Antoine
+  gravatar: 98d0697142b0d75568acf12b2767b01c
+  social :
+    twitter: antoine_sd
+    github: antoinesd
+  bio : >
+    <p>Après avoir travaillé pendant plus de 15 ans dans différentes société de service en
+    informatique, Antoine est aujourd’hui employé chez Red Hat ou il dirige la spécification
+    CDI 2.0 et est en charge du développement de l’éco-système CDI.</p>
