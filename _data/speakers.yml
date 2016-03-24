@@ -451,20 +451,6 @@ xroy:
   social :
     twitter: xavroy
 
-jmdoudoux:
-  lastname: DOUDOUX
-  firstname: Jean-Michel
-  photo: jmdoudoux.jpg
-  social :
-    twitter: jmdoudoux
-    homepage: http://www.jmdoudoux.fr
-  bio: >
-    <p>Passionné par le développement de logiciels depuis son adolescence et par la veille technologique, Jean-Michel
-    possède une longue expérience, en SSII et personnelle, dans l'écriture d'applications avec différents langages.</p>
-    <p>Utilisant Java depuis sa version 1.0, il aime partager sa passion notamment en se consacrant, depuis plus d'une
-    douzaine d'années, à la rédaction de deux didacticiels, intitulés <a href="http://www.jmdoudoux.fr">Développons en
-    Java</a>, diffusés sous licence GNU FDL. Il est également le co-fondateur du Lorraine JUG et membre de YaJUG.</p>
-
 gbilley:
   lastname: BILLEY
   firstname: Guillaume
@@ -544,3 +530,18 @@ asabotdurand:
     <p>Après avoir travaillé pendant plus de 15 ans dans différentes société de service en
     informatique, Antoine est aujourd’hui employé chez Red Hat ou il dirige la spécification
     CDI 2.0 et est en charge du développement de l’éco-système CDI.</p>
+
+jmdoudoux:
+  lastname: DOUDOUX
+  firstname: Jean-Michel
+  photo: jmdoudoux.jpg
+  social :
+    twitter: jmdoudoux
+    homepage: http://www.jmdoudoux.fr
+  bio: >
+    <p>Passionné par le développement de logiciels et par la veille technologique, je possède une longue expérience,
+    en SSII et personnelle, dans l'écriture d'applications avec différents langages.</p>
+    <p>Utilisant Java depuis sa version 1.0, j'aime partager ma passion pour cette plateforme et son
+    écosystème notamment en me consacrant, depuis plus d'une quinzaine d'années, à la rédaction de deux tutoriels,
+    intitulés <a href="http://www.jmdoudoux.fr">Développons en Java</a>, diffusés sous licence GNU FDL. Ce
+    travail m'a permis d'être nommé Java Champion. Je suis également un des cofondateurs du Lorraine JUG.</p>
