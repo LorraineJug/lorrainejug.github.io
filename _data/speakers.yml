@@ -229,19 +229,6 @@ dpilato:
     twitter: dadoonet
     github: dadoonet
 
-ddelabassee:
-  lastname: DELABASSEE
-  firstname: David
-  gravatar: 9999629551902f546d4817c9840bb9f6
-  social :
-    twitter: delabassee
-    github: delabassee
-  bio: >
-    <p>David Delabassee is a Principal Consultant at Oracle Belgium. Prior to that, he spent the last 10 years at Sun
-    Microsystems focusing on Java end-to-end (from the smart card to the high end server), all the related technologies,
-    and the developer tools. He has been involved in Java projects since the early days of this technology. David is a
-    steering member of Devoxx, Europe largest Java conference.</p>‎
-
 aardhuin:
   lastname: ARDHUIN
   firstname: Alexandre
@@ -545,3 +532,19 @@ jmdoudoux:
     écosystème notamment en me consacrant, depuis plus d'une quinzaine d'années, à la rédaction de deux tutoriels,
     intitulés <a href="http://www.jmdoudoux.fr">Développons en Java</a>, diffusés sous licence GNU FDL. Ce
     travail m'a permis d'être nommé Java Champion. Je suis également un des cofondateurs du Lorraine JUG.</p>
+
+ddelabassee:
+  lastname: DELABASSEE
+  firstname: David
+  gravatar: 9999629551902f546d4817c9840bb9f6
+  social :
+    twitter: delabassee
+    github: delabassee
+  bio: >
+    <p>David Delabassée is a Software Evangelist working for Oracle; his primary focus is Server-side Java.
+    Prior to Oracle, David spent a decade at Sun Microsystems focusing on Java end-to-end (from the smart
+    card to the high end server), related technologies and developer tools. In his various roles, David has
+    been involved in numerous Java projects since the early days of this technology.</p>‎
+    <p>David lives in Belgium. In his spare time, he enjoys playing video games with his daughter and
+    tinkering with technologies such as Java, Home Automation,3D printers, electronics and pinballs.</p>
+    
