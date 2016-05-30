@@ -55,7 +55,7 @@
 
 - id: pharmagest
   name: Pharmagest
-  level: "silver"
+  level: "gold"
   actif: "true"
   url: http://www.pharmagest.com/
   logo: logo_pharmagest.png
