@@ -1,8 +1,10 @@
 name: LorraineJug
 description: Lorraine Java User Group
+author: lorrainejug
 url: http://www.lorrainejug.org
-exclude: [README.md, _site/, lorrainejug.github.io.iml]
-gems: [jekyll-paginate]
+logo: /images/logo-carre_200x200.png
+exclude: [README.md, _site/]
+gems: [jekyll-paginate, jekyll-seo-tag]
 markdown: kramdown
 highlighter: rouge
 baseurl:
@@ -12,3 +14,5 @@ timezone: Europe/Paris
 sass:
     sass_dir: css/_sass
     style: compressed             # nested|expanded|compact|compressed
+twitter:
+  username: lorrainejug
