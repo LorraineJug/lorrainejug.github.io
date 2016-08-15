@@ -93,7 +93,7 @@
 - id: devoxxfr
   name: Devoxx France
   level: "evenement"
-  actif: "true"
+  actif: "false"
   url: http://www.devoxx.fr/
   logo: devoxx_france_2016_horiz_600_130.png
   twitter: DevoxxFR
@@ -106,6 +106,17 @@
     aussi un espace d’exposition, avec 30 exposants/sponsors, pendant toute la durée de la conférence.</p>
     <p><a href="http://www.devoxx.fr/">Découvrez</a> le programme, les thèmes et les présentateurs, de la 4ème édition
     de Devoxx France.</p>
+
+- id: devoxx
+  name: Devoxx
+  level: "evenement"
+  actif: "true"
+  url: http://www.devoxx.be/
+  logo: logo_devoxx.gif
+  twitter: Devoxx
+  presentation: >
+    <p>Devoxx (anciennement JavaPolis) est une conférence annuelle traitant de Java, Android, et HTML 5 crée en 2001
+    par Stephan Janssen et le Belgian Java User Group.</p>
 
 - id: programmez
   name: Magazine Programmez

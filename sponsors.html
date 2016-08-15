@@ -54,9 +54,9 @@ title: Nos Sponsors
         <span>
 			{% assign sponsors = site.data.sponsors | where:"actif", "false" %}
 			{% for sponsor in sponsors %}
-			<a href="{{ sponsor.url }}" rel="external"><img
-					src="{{ site.baseurl }}/images/sponsors/{{ sponsor.logo }}"
-					title="{{ sponsor.name }}"/></a>
+			<a href="{{ sponsor.url }}" rel="external"><img
+					src="{{ site.baseurl }}/images/sponsors/{{ sponsor.logo }}"
+					title="{{ sponsor.name }}"/></a>
 
 			{% endfor %}
         </span>
