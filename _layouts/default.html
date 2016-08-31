@@ -23,7 +23,14 @@
 <body>
     <div class="background-image"></div>
     {% include header.html %}
-    <div id="main">{{ content }}</div>
+    <div id="main">
+      <div class="text-center"><a href="http://www.devoxx.be/" rel="external">
+              <img src="/images/sponsors/logo_devoxx.gif" title="Devoxx">
+      </a>
+      <br />  <br />
+    </div>
+      {{ content }}
+    </div>
     {% include footer.html %}
 
     <script type="text/javascript" src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
