@@ -547,4 +547,13 @@ ddelabassee:
     been involved in numerous Java projects since the early days of this technology.</p>‎
     <p>David lives in Belgium. In his spare time, he enjoys playing video games with his daughter and
     tinkering with technologies such as Java, Home Automation,3D printers, electronics and pinballs.</p>
-    
+
+alecharpentier:
+  lastname: LECHARPENTIER
+  firstname: Adrien
+  gravatar: 8254814a3136a30724cd428841f8e155
+  social :
+    twitter: alecharp
+    github: alecharp
+  bio: >
+    <p>Cela fait maintenant 8ans que je travaille sur et avec Jenkins. Aujourd'hui, je suis Support Engineer chez CloudBees et je me consacre à plein temps à Jenkins et ces plugins.</p>
