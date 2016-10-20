@@ -23,8 +23,8 @@ sur Jenkins 2
 	<ul>
 		<li>18:15 - Accueil et enregistrement</li>
 		<li>18:30 - Jenkins 2.
-		<p>Après 10ans de 1.x, Jenkins passe enfin a 2.x. Mais qu'est-ce que cela apporte? Nous verrons donc les changement
-    que cela apporte, qu'est-ce que Pipeline. Cerise sur le gateaux, nous apercevrons la nouvelle interface de
+		<p>Après 10ans de 1.x, Jenkins passe enfin a 2.x. Mais qu'est-ce que cela apporte? Nous verrons donc les changements
+    que cela apporte, qu'est-ce que Pipeline. Cerise sur le gateau, nous apercevrons la nouvelle interface de
     Jenkins avec BlueOcean.</p>
     </li>
 		<li>20:00 - Drink et tombola…</li>
