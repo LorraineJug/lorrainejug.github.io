@@ -221,14 +221,6 @@ fvaille:
   social :
     linkedin: fvaille
 
-dpilato:
-  lastname: PILATO
-  firstname: David
-  gravatar: 20049a614b7f6838dc87b4bc39c42079
-  social :
-    twitter: dadoonet
-    github: dadoonet
-
 aardhuin:
   lastname: ARDHUIN
   firstname: Alexandre
@@ -557,3 +549,11 @@ alecharpentier:
     github: alecharp
   bio: >
     <p>Cela fait maintenant 8ans que je travaille sur et avec Jenkins. Aujourd'hui, je suis Support Engineer chez CloudBees et je me consacre à plein temps à Jenkins et ces plugins.</p>
+
+dpilato:
+  lastname: PILATO
+  firstname: David
+  gravatar: 20049a614b7f6838dc87b4bc39c42079
+  social :
+    twitter: dadoonet
+    github: dadoonet
