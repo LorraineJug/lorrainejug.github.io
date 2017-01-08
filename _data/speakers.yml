@@ -557,3 +557,15 @@ dpilato:
   social :
     twitter: dadoonet
     github: dadoonet
+
+rforax:
+  lastname: FORAX
+  firstname: Rémi
+  gravatar: 5ce0156bc2f1864459fd77229eff3fe3
+  bio: >
+    <p>Maitre de Conférence à l'Université Paris Est Marne-la-Vallée (UPEM), quand je ne martirise pas de pauvres
+    étudiants qui n'ont rien demandé, ma recherche tourne autour de l'implantation de language sur la machine virtuelle
+    Java. Je suis développeur de plusiuers projets opensource, OpenJDK, ASM ou Tatoo. Je suis aussi expert du Java
+    Community Process, et à ce titre j'ai et je fais parties des personnes impliqués dans la conception d'invokedynamic,
+    bytecode introduit pour le support des langages dynamiques dans Java 7, des lambdas et de la modernisation de java.util
+    pour Java 8 et des modules pour Java 9.</p>

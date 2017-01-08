@@ -4,7 +4,7 @@ title: Soirée Recherche avancée pour votre application "legacy"
 category: Annonce
 edito: true
 tags: ["NoSQL", "legacy", "ElasticSearch"]
-event-date: 2016-11-30 18:30:00 +0100
+event-date: 2016-12-01 18:30:00 +0100
 event-place: telecomnancy
 eventbrite-id: 29417604848
 ---
