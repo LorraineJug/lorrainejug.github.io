@@ -28,8 +28,7 @@ Quelques prérequis pour la soirée :
 <div class="programme">Au programme de la soirée :
 	<ul>
 		<li>18:15 - Accueil et enregistrement</li>
-		<li>18:30 - Coding Doko</li>
-    </li>
+		<li>18:30 - Coding Dojo</li>
 	</ul>
 </div>
 
