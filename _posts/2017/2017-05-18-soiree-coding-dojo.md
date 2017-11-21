@@ -3,7 +3,7 @@ layout: event
 title: Soirée Coding dojo
 category: Annonce
 edito: true
-event-date: 2017-05-08 18:30:00 +0100
+event-date: 2017-05-18 18:30:00 +0200
 event-place: telecomnancy
 eventbrite-id: 34313917852
 ---
