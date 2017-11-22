@@ -7,8 +7,8 @@ title: Adhérer
     <div class="row">
         <div class="box">
             <h1>{{ page.title }}</h1>
-            <p>
-            	Adhésion à l'association LorraineJUG pour la saison 2016.
+            <p id="titleSubscribe">
+            	Adhésion à l'association LorraineJUG pour la saison
         	</p>
 
             <form  class="col-md-6"  action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -36,3 +36,23 @@ title: Adhérer
         </div>
     </div>
 </div>
+<script>
+function updateSubscribeDescription() {
+	var now = new Date();
+	var season = new String();
+	if(isAfterJune(now)) {
+		season += now.getFullYear() + "/" + (now.getFullYear() + 1) + ".";
+	} else {
+		season += (now.getFullYear() - 1) + "/" + now.getFullYear() + ".";
+	}
+	document.getElementById("titleSubscribe").textContent += season;
+}
+
+function isAfterJune(date) {
+	return date.getMonth() > 6;
+}
+
+window.addEventListener("load", function(event) {
+    updateSubscribeDescription();
+  });
+</script>
