@@ -571,3 +571,16 @@ jpaumard:
     Java Champion & Java Rockstar, speaker régulier pour Devoxx (FR, BE, UK), JavaOne, de nombreux JUG
     francophones, il est également auteur pour Java Magazine. Il est enfin membre du groupe d'experts pour
     CDI 2.0 (JSR 365).</p>
+
+jviet:
+  lastname: VIET
+  firstname: Julien
+  gravatar: cb52062fbd7e159b54e3c298d622fe72
+  social :
+    twitter: julienviet
+    github: vietj
+    homepage: http://www.julienviet.com/
+  bio: >
+    <p>Julien Viet est le lead du projet Vert.x et travaille pour Red Hat.
+    Julien a commencé à contribuer aux logiciels libres en 2002 et a un diplôme
+    d'ingénieur en télécommunications.</p>
