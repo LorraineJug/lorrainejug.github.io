@@ -584,3 +584,35 @@ jviet:
     <p>Julien Viet est le lead du projet Vert.x et travaille pour Red Hat.
     Julien a commencé à contribuer aux logiciels libres en 2002 et a un diplôme
     d'ingénieur en télécommunications.</p>
+
+admytryk:
+  lastname: DMYTRYK
+  firstname: Alexis
+  social :
+  bio: >
+    <p>Développeur java.</p>
+
+tcollignon:
+  lastname: COLLIGNON
+  firstname: Thomas
+  gravatar: ffc0aff54d98b1deeb2192abcfaf389f
+  social :
+    twitter: tcollignon
+    github: tcollignon
+    homepage: https://tcollignon.github.io/
+  bio: >
+    <p>Passionné d'informatique, Développeur Java, mouvance DevOps, Travail chez efluid
+    à Metz (société éditrice de logiciel dans le secteur de l'énergie) en tant que
+    responsable du process de fabrication du logiciel (Jenkins, Artifactory, Maven,
+    Ansible, Docker, Groovy, Git/Gerrit, etc...), Contribue à quelques projets open
+    source, Membre du Lorraine JUG, et développe un projet personnel de Domotique.</p>
+
+jamborini:
+  lastname: TAMBORINI
+  firstname: Jérôme
+  gravatar:
+  social :
+    twitter: jerometambo
+    github: jerometambo
+  bio: >
+    <p>Dev/Archi (plutôt backend - plutôt Java / JEE) - membre LorraineJUG.</p>
