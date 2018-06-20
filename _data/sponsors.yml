@@ -90,23 +90,22 @@
     Russia; Munich, Germany; and Boston, Massachusetts. For more information, see
     <a href="http://www.jetbrains.com">www.jetbrains.com</a>.</p>
 
-- id: devoxxfr
-  name: Devoxx France
+- id: voxxeddaysMS
+  name: Voxxed Days Microservices
   level: "evenement"
   actif: "true"
-  url: http://www.devoxx.fr/
-  logo: logo_devoxx_fr_carre_petit_250.png
-  banniere: logo_devoxxfr_2018.png
-  twitter: DevoxxFR
+  url: https://voxxeddays.com/microservices
+  logo: banner300x250-.png
+  banniere: banner984x255-300x78.png
   presentation: >
-    <p>Devoxx France est une conférence indépendante, organisée par le Paris Java User Group, au mois d’avril à Paris.</p>
-    <p>Durant 3 jours, la conférence vous propose plus de 130 présentations, des ateliers pratiques et des sessions
-    approfondies, autour de la plateforme Java, du Web, du Mobile et des différents langages alternatifs, sur la JVM.</p>
-    <p>Devoxx France est ouvert à tous les développeurs, que vous soyez un expert Javascript, un coach Agile ou un
-    architecte technique, la multitude des sujets proposés vous permet de construire votre propre programme. C’est
-    aussi un espace d’exposition, avec 30 exposants/sponsors, pendant toute la durée de la conférence.</p>
-    <p><a href="http://www.devoxx.fr/">Découvrez</a> le programme, les thèmes et les présentateurs, de la 4ème édition
-    de Devoxx France.</p>
+    <p>Voxxed Days Microservices is a new event focussed purely on Microservices. Yes, <strong>two days of conferences</strong> and <strong>one workshop day</strong>&nbsp;(optional) just on&nbsp;Microservices.</p>
+    <ul>
+    <li>You’ve <strong>heard</strong> of Microservices? Come and learn some more.</li>
+    <li>You <strong>struggle</strong> with Microservices? We’ll help you soothe the pain.</li>
+    <li>You are an <strong>expert</strong> on Microservices? Share your knowledge with the others.</li>
+    <li>Your company <strong>build</strong> Microservices? Come and talk about it.</li>
+    </ul>
+    <p>All you want to know about Microservices but afraid to ask will be answered at Voxxed Days Microservices.</p>
 
 - id: programmez
   name: Magazine Programmez
