@@ -616,3 +616,18 @@ jamborini:
     github: jerometambo
   bio: >
     <p>Dev/Archi (plutôt backend - plutôt Java / JEE) - membre LorraineJUG.</p>
+
+
+drighetto:
+  lastname: RIGHETTO
+  firstname: Dominique
+  gravatar: 07be97f1fafa8f5223400d03d28b9c7a
+  social :
+    twitter: righettod
+    github: righettod
+    linkedin: http://lu.linkedin.com/in/righettod
+  bio: >
+    <p>Dominique Righetto est développeur depuis 2003 et est un passionné de Sécurité Applicative depuis 2011.
+    Il est actuellement consultant senior en AppSec @ excellium-services.com et co-responsable, avec Jim
+    Manico, du projet <a href="https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series">OWASP Cheat Sheet Series</a>.</p>
+    <p>Il est également contributeur actif au projet <a href="https://github.com/OWASP/owasp-mstg">OWASP Mobile Security Testing Guide</a>.</p>
