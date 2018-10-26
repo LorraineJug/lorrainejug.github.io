@@ -19,7 +19,7 @@ parlera de bonnes pratique de sécurité applicative.
 <div class="programme">Au programme de la soirée :
 	<ul>
 		<li>18:15 - Accueil et enregistrement</li>
-		<li>18:30 - Hands-on Labs : Pratiquer git au niveau supérieur
+		<li>18:30 - Security by Design dans vos projets
 		<p>La sécurité d'une application est souvent décrite dans une spécification ou
 		un RFP en utilisant une exigence très vague ou trop générique, telle que « L'application
 		doit être sécurisée; L’application doit être protégée contre le Top 10 de
