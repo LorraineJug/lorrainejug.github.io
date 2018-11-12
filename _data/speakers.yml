@@ -516,14 +516,6 @@ alecharpentier:
   bio: >
     <p>Cela fait maintenant 8ans que je travaille sur et avec Jenkins. Aujourd'hui, je suis Support Engineer chez CloudBees et je me consacre à plein temps à Jenkins et ces plugins.</p>
 
-dpilato:
-  lastname: PILATO
-  firstname: David
-  gravatar: 20049a614b7f6838dc87b4bc39c42079
-  social :
-    twitter: dadoonet
-    github: dadoonet
-
 rforax:
   lastname: FORAX
   firstname: Rémi
@@ -631,3 +623,15 @@ drighetto:
     Il est actuellement consultant senior en AppSec @ excellium-services.com et co-responsable, avec Jim
     Manico, du projet <a href="https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series">OWASP Cheat Sheet Series</a>.</p>
     <p>Il est également contributeur actif au projet <a href="https://github.com/OWASP/owasp-mstg">OWASP Mobile Security Testing Guide</a>.</p>
+
+
+dpilato:
+  lastname: PILATO
+  firstname: David
+  gravatar: 20049a614b7f6838dc87b4bc39c42079
+  social :
+    twitter: dadoonet
+    github: dadoonet
+  bio: >
+    <p>Depuis 2013, David Pilato est développeur et évangéliste chez elastic.co, après avoir passé les deux années
+    précédentes à promouvoir le projet open-source Elasticsearch. Il en anime la communauté française</p>
