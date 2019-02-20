@@ -577,28 +577,6 @@ jviet:
     Julien a commencé à contribuer aux logiciels libres en 2002 et a un diplôme
     d'ingénieur en télécommunications.</p>
 
-admytryk:
-  lastname: DMYTRYK
-  firstname: Alexis
-  social :
-  bio: >
-    <p>Développeur java.</p>
-
-tcollignon:
-  lastname: COLLIGNON
-  firstname: Thomas
-  gravatar: ffc0aff54d98b1deeb2192abcfaf389f
-  social :
-    twitter: tcollignon
-    github: tcollignon
-    homepage: https://tcollignon.github.io/
-  bio: >
-    <p>Passionné d'informatique, Développeur Java, mouvance DevOps, Travail chez efluid
-    à Metz (société éditrice de logiciel dans le secteur de l'énergie) en tant que
-    responsable du process de fabrication du logiciel (Jenkins, Artifactory, Maven,
-    Ansible, Docker, Groovy, Git/Gerrit, etc...), Contribue à quelques projets open
-    source, Membre du Lorraine JUG, et développe un projet personnel de Domotique.</p>
-
 jamborini:
   lastname: TAMBORINI
   firstname: Jérôme
@@ -635,3 +613,25 @@ dpilato:
   bio: >
     <p>Depuis 2013, David Pilato est développeur et évangéliste chez elastic.co, après avoir passé les deux années
     précédentes à promouvoir le projet open-source Elasticsearch. Il en anime la communauté française</p>
+
+admytryk:
+  lastname: DMYTRYK
+  firstname: Alexis
+  social :
+  bio: >
+    <p>Développeur java.</p>
+
+tcollignon:
+  lastname: COLLIGNON
+  firstname: Thomas
+  gravatar: ffc0aff54d98b1deeb2192abcfaf389f
+  social :
+    twitter: tcollignon
+    github: tcollignon
+    homepage: https://tcollignon.github.io/
+  bio: >
+    <p>Passionné d'informatique, Développeur Java, mouvance DevOps, Travail chez efluid
+    à Metz (société éditrice de logiciel dans le secteur de l'énergie) en tant que
+    responsable du process de fabrication du logiciel (Jenkins, Artifactory, Maven,
+    Ansible, Docker, Groovy, Git/Gerrit, etc...), Contribue à quelques projets open
+    source, Membre du Lorraine JUG, et développe un projet personnel de Domotique.</p>
