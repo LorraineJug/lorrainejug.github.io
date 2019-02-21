@@ -6,3 +6,12 @@
   country-name: France
   latitude: 48°40'09.1"N
   longitude: 6°09'19.4"E
+
+- id: "efuild"
+  name: UEM - EFuild
+  street-address: 2 place du Pontiffroy
+  postal-code: 57000
+  locality: Metz
+  country-name: France
+  latitude: 49.1282841
+  longitude: 6.1744027
