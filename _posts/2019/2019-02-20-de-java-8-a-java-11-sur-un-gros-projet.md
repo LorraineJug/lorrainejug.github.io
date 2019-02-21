@@ -4,7 +4,7 @@ title: "De Java 8 à Java 11 sur un gros projet : les pièges à éviter"
 category: Annonce
 edito: true
 event-date: 2018-03-06 18:30:00 +0100
-event-place: telecomnancy
+event-place: efuild
 eventbrite-id: 57046128506
 ---
 
@@ -13,6 +13,8 @@ Le <a href="/">Lorraine JUG</a> (Java User Group de Lorraine) vous invite à sa 
 soirée de conférence animé par <a href="/speakers.html#admytryk">Alexis DMTRYK</a>  et <a href="/speakers.html#tcollignon">Thomas COLLIGNON</a> qui
 nous parlerons des pièges à éviter lors de la migration de Java 8 à Java 11.
 </p>
+
+<p><strong>Attention</strong> : changement de l'adresse habituelle<p>
 
 {% include event-date.html %}
 
