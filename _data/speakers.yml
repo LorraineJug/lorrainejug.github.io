@@ -635,3 +635,16 @@ tcollignon:
     responsable du process de fabrication du logiciel (Jenkins, Artifactory, Maven,
     Ansible, Docker, Groovy, Git/Gerrit, etc...), Contribue à quelques projets open
     source, Membre du Lorraine JUG, et développe un projet personnel de Domotique.</p>
+
+bleporini:
+  lastname: LEPORINI
+  firstname: Brice
+  gravatar: d1ca3b32357d99b6db6a91d5aa5babd9
+  social :
+    twitter: blep
+    github: bleporini
+  bio: >
+    <p>Brice est un développeur sénior qui totalise plus de 20 ans d’expérience sur
+    différentes technologies dont dix focalisées sur l’écosystème Java et les architecture
+    actuelle oscille entre le coaching technique d’équipes de jeunes geeks, les travaux
+    d’amélioration de performance et les études préalables.</p>
