@@ -648,3 +648,17 @@ bleporini:
     différentes technologies dont dix focalisées sur l’écosystème Java et les architecture
     actuelle oscille entre le coaching technique d’équipes de jeunes geeks, les travaux
     d’amélioration de performance et les études préalables.</p>
+
+afaria:
+  lastname: FARIA
+  firstname: Alexandre
+  social :
+    homepage: https://www.alexandrefaria.net/
+    twitter: lusoalex_
+    github: lusoalex
+    linkedin: fariaalexandre
+  bio: >
+    <p>Développeur passionné depuis 2005, je travaille actuellement à Lille pour le groupe Decathlon, en tant que Software Engineer.</p>
+    <p>Plutôt orienté back office, je développe principalement en Java et un peu en Golang.</p>
+    <p>Mes activités tournent autour des APIs, en particulier l'authentification et la sécurité.</p>
+    <p>Le partage des connaissances est ce que je préfère dans mon quotidien, le monde de l'open source est également un sujet que j'affectionne.</p>
