@@ -74,7 +74,7 @@
 - id: jetbrains
   name: JetBrains
   level: "ressources"
-  actif: "true"
+  actif: "false"
   url: http://www.jetbrains.com/
   logo: logo_jetbrains.png
   twitter: jetbrains
