@@ -491,21 +491,6 @@ asabotdurand:
     informatique, Antoine est aujourd’hui employé chez Red Hat ou il dirige la spécification
     CDI 2.0 et est en charge du développement de l’éco-système CDI.</p>
 
-ddelabassee:
-  lastname: DELABASSEE
-  firstname: David
-  gravatar: 9999629551902f546d4817c9840bb9f6
-  social :
-    twitter: delabassee
-    github: delabassee
-  bio: >
-    <p>David Delabassée is a Software Evangelist working for Oracle; his primary focus is Server-side Java.
-    Prior to Oracle, David spent a decade at Sun Microsystems focusing on Java end-to-end (from the smart
-    card to the high end server), related technologies and developer tools. In his various roles, David has
-    been involved in numerous Java projects since the early days of this technology.</p>‎
-    <p>David lives in Belgium. In his spare time, he enjoys playing video games with his daughter and
-    tinkering with technologies such as Java, Home Automation,3D printers, electronics and pinballs.</p>
-
 alecharpentier:
   lastname: LECHARPENTIER
   firstname: Adrien
@@ -662,3 +647,21 @@ afaria:
     <p>Plutôt orienté back office, je développe principalement en Java et un peu en Golang.</p>
     <p>Mes activités tournent autour des APIs, en particulier l'authentification et la sécurité.</p>
     <p>Le partage des connaissances est ce que je préfère dans mon quotidien, le monde de l'open source est également un sujet que j'affectionne.</p>
+
+ddelabassee:
+  lastname: DELABASSEE
+  firstname: David
+  gravatar: 9999629551902f546d4817c9840bb9f6
+  social :
+    twitter: delabassee
+    github: delabassee
+    homepage: https://delabassee.com/
+  bio: >
+    <p>David is a Developer Advocate in the Java Platform Group at Oracle. Prior to that, he was involved in
+    Oracle’s Serverless initiatives. David has also been heavily involved in Java EE 8 and its transition to
+    the Eclipse Foundation as part of the Jakarta EE initiative.</p>‎
+    <p>Over the years, David has championed Java extensively throughout the world, by presenting at conferences
+    and user groups, large and small. He blogs at https://delabassee.com and has authored many technical
+    articles for various publications.</p>
+    <p>David lives in Belgium. In his spare time, he enjoys playing video games with his daughter and tinkering
+    with technologies such as domotics, electronics, and pinballs.</p>
