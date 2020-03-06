@@ -74,7 +74,7 @@
 - id: jetbrains
   name: JetBrains
   level: "ressources"
-  actif: "true"
+  actif: "false"
   url: http://www.jetbrains.com/
   logo: logo_jetbrains.png
   twitter: jetbrains
@@ -93,9 +93,10 @@
 - id: devoxxfr
   name: Devoxx France
   level: "evenement"
-  actif: "false"
+  actif: "true"
   url: http://www.devoxx.fr/
-  logo: devoxx_france_2016_horiz_600_130.png
+  logo: devoxx-france_400.png
+  banniere: devoxx_france_horizontale_600_2019.png
   twitter: DevoxxFR
   presentation: >
     <p>Devoxx France est une conférence indépendante, organisée par le Paris Java User Group, au mois d’avril à Paris.</p>
@@ -107,16 +108,22 @@
     <p><a href="http://www.devoxx.fr/">Découvrez</a> le programme, les thèmes et les présentateurs, de la 4ème édition
     de Devoxx France.</p>
 
-- id: devoxx
-  name: Devoxx
+- id: voxxeddaysMS
+  name: Voxxed Days Microservices
   level: "evenement"
-  actif: "true"
-  url: http://www.devoxx.be/
-  logo: logo_devoxx.gif
-  twitter: Devoxx
+  actif: "false"
+  url: https://voxxeddays.com/microservices
+  logo: banner300x250-.png
+  banniere: banner984x255-300x78.png
   presentation: >
-    <p>Devoxx (anciennement JavaPolis) est une conférence annuelle traitant de Java, Android, et HTML 5 crée en 2001
-    par Stephan Janssen et le Belgian Java User Group.</p>
+    <p>Voxxed Days Microservices is a new event focussed purely on Microservices. Yes, <strong>two days of conferences</strong> and <strong>one workshop day</strong>&nbsp;(optional) just on&nbsp;Microservices.</p>
+    <ul>
+    <li>You’ve <strong>heard</strong> of Microservices? Come and learn some more.</li>
+    <li>You <strong>struggle</strong> with Microservices? We’ll help you soothe the pain.</li>
+    <li>You are an <strong>expert</strong> on Microservices? Share your knowledge with the others.</li>
+    <li>Your company <strong>build</strong> Microservices? Come and talk about it.</li>
+    </ul>
+    <p>All you want to know about Microservices but afraid to ask will be answered at Voxxed Days Microservices.</p>
 
 - id: programmez
   name: Magazine Programmez

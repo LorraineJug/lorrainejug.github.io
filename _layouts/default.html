@@ -15,7 +15,7 @@
     <link rel="icon" type="image/png" href="{{ site.baseurl }}/images/logo_91x91.png" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml" />
     <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
-    <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.10.1.min.js"></script>
     <script src="{{ site.baseurl }}/js/main.js"></script>
     {% seo %}
 </head>
@@ -23,7 +23,13 @@
 <body>
     <div class="background-image"></div>
     {% include header.html %}
-    <div id="main">      
+    <div id="main">
+     <div class="text-center"><a href="http://www.devoxx.fr/" rel="external">
+             <img src="/images/sponsors/devoxx-france_400.png" title="Devoxx">
+     </a>
+     <br />  <br />
+   </div>
+    <div id="main">
       {{ content }}
     </div>
     {% include footer.html %}
