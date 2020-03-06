@@ -3,9 +3,9 @@ layout: event
 title: "La JVM et Docker, vers une symbiose parfaite !"
 category: Annonce
 edito: true
-event-date: 2019-12-18 18:30:00 +0100
-event-place: telecomnancy
-eventbrite-id: 83857380683
+event-date: 2020-03-17 18:30:00 +0100
+event-place: efuild
+eventbrite-id: 98422039971
 ---
 
 <p>
@@ -36,7 +36,11 @@ présentera les dernières optimisations de la JVM pour s'éxécuter dans un con
 		spécifique à Java et est applicable à tous les langages tournant sur la JVM, Kotlin, Groovy,
 		Scala, etc.</p>
 		</li>
-		<li>20:00 - Drink et tombola…</li>
+		<li>20:00 - Drink et ... LorraineJUG vous propose de finir la soirée dans un petit restaurant
+		à deux pas du lieu de la conférence qui serait privatisé pour l'occasion afin d'y manger un 
+		Chili con Carne maison pour un tarif de 12e. Si vous êtes parant, veillez à bien choisir 
+		l'option dans l'inscription EventBrite. Le restaurant n'acceptera que si nous sommes à minima
+		20 convives, si ce n'est pas le cas nous ferons Drink / Pizza sur place ;)</li>
 	</ul>
 </div>
 
