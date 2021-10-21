@@ -18,7 +18,7 @@ présentera les dernières évolutions côté docker et particulièrement côté
 
 <div class="programme">Au programme de la soirée :
 <br>
-<img src="/images/posts/2021/docker-buildx.jpg" alt="affiche" height="500"/>
+<img src="/images/posts/2021/docker-buildx.jpg" alt="affiche" height="500" style="margin-left: auto; margin-right: auto; display: block;"/>
 	<ul>
 		<li>18:15 - Accueil et enregistrement</li>
 		<li>18:30 - docker buildx
