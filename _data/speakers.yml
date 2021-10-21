@@ -665,3 +665,14 @@ ddelabassee:
     articles for various publications.</p>
     <p>David lives in Belgium. In his spare time, he enjoys playing video games with his daughter and tinkering
     with technologies such as domotics, electronics, and pinballs.</p>
+    
+kalvarez:
+  lastname: ALVAREZ
+  firstname: Kevin
+  photo: kalvarez.jpg
+  social :
+    twitter: crazyws
+    github: crazy-max
+  bio: >
+    <p>I'm currently working as Sr Software Engineer @ Docker. I'm passionate about the Go, Docker and Linux ecosystem and everything to do with Open Source and its community. </p>
+    <p>I develop and maintain projects on GitHub and I'm best known for my work on Docker Actions and also some personal projects like Diun and swarm-cronjob to help others achieve their goals. </p>
