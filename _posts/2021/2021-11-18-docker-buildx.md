@@ -4,7 +4,7 @@ title: "docker buildx"
 category: Annonce
 edito: true
 event-date: 2021-11-18 18:30:00 +0100
-event-place: Telecom Nancy
+event-place: telecomnancy
 eventbrite-id: 196016489597
 ---
 
