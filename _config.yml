@@ -1,7 +1,7 @@
 name: LorraineJug
 description: Lorraine Java User Group
 author: lorrainejug
-url: http://www.lorrainejug.org
+url: http://www.lorrainejug.fr
 logo: /images/logo-carre_200x200.png
 exclude: [README.md, _site/]
 plugins: [jekyll-paginate, jekyll-seo-tag]

@@ -19,4 +19,4 @@ Dans le répertoire du projet utilisez la ligne de commande
 
 ## Visualiser le site
 
-http://www.lorrainejug.org/
+http://www.lorrainejug.fr/
