@@ -531,6 +531,11 @@ jmdoudoux:
 mchaffotte:
   lastname: CHAFFOTTE
   firstname: Matthieu
+  bio: >
+    <p>Senior developer @ Marmelab</p>
+    <p>I am a Senior Software Engineer with a strong background in software design and development. My passion is to deliver 
+    value by solving real problems through the combination of technology, data analysis & insights and teamwork at scale. 
+    I try to stay close to customers and understand their needs from an engineering perspective. In my spare time I develop games, POCs.</p>
 
 jpaumard:
   lastname: PAUMARD
