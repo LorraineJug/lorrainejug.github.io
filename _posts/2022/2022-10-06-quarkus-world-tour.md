@@ -11,7 +11,7 @@ eventbrite-id: 427015132757
 <p>
 Le <a href="/">Lorraine JUG</a> (Java User Group de Lorraine) vous invite à sa prochaine
 soirée de conférence animé par <a href="/speakers.html#yrodiere">Yoann Rodiere</a> qui
-proposera une présentation du monitoring avec Java Flight Recorder.
+proposera une présentation du framework Quarkus.
 </p>
 
 {% include event-date.html %}
