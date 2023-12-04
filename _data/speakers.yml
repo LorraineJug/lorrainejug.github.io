@@ -670,7 +670,7 @@ ddelabassee:
     articles for various publications.</p>
     <p>David lives in Belgium. In his spare time, he enjoys playing video games with his daughter and tinkering
     with technologies such as domotics, electronics, and pinballs.</p>
-    
+
 kalvarez:
   lastname: ALVAREZ
   firstname: Kevin
@@ -691,3 +691,10 @@ yrodiere:
   bio: >
     <p>Yoann Rodière est développeur Open Source chez Red Hat au sein de l'équipe Hibernate.</p>
     <p>Il est lead developer sur le projet Hibernate Search, et l'un des principaux contributeurs à l'intégration des projets Hibernate dans Quarkus, auquel il participe depuis les débuts de la stack.</p>
+
+dwalliang:
+  lastname: WALLIANG
+  firstname: Didier
+  social :
+    twitter: astrochoupe
+  bio: >
