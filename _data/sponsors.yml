@@ -1,7 +1,7 @@
 - id: sfeir
   name: Groupe Sfeir
   level: "gold"
-  actif: "true"
+  actif: "false"
   url: http://www.sfeir.com/
   logo: logo_sfeir.png
   twitter: SFEIRfr
@@ -33,7 +33,7 @@
 - id: efluid
   name: eFluid
   level: "gold"
-  actif: "true"
+  actif: "false"
   url: http://www.efluid.com/
   logo: logo_efluid.png
   presentation: >
@@ -56,7 +56,7 @@
 - id: pharmagest
   name: Pharmagest
   level: "gold"
-  actif: "true"
+  actif: "false"
   url: http://www.pharmagest.com/
   logo: logo_pharmagest.png
   twitter: pharmagest
