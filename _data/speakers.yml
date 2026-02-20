@@ -1,3 +1,12 @@
+snicoll:
+  lastname: NICOLL
+  firstname: Stephane
+  bio: >
+    <p>Stéphane cumule plus de 20 ans d’expérience en ingénierie logicielle, avec une spécialisation forte dans le développement d’API sur la JVM.
+    Après plus de dix ans à concevoir des applications Java à grande échelle dans des domaines variés — géomatique, finance, logistique — il rejoint en 2014 l’équipe cœur de Spring.
+    Au sein de cette équipe, Stéphane a travaillé sur de nombreux aspects de Spring Boot et du Spring Framework, en cherchant à en comprendre les mécanismes internes et en collaborant étroitement avec une communauté de contributeurs particulièrement active.
+    Vous pouvez retrouver Stéphane (alias « snicoll ») sur Bsky et GitHub pour suivre ses travaux et contributions autour de l’écosystème Java.</p>
+
 theute:
   lastname: HEUTE
   firstname: Thomas
